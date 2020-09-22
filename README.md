@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonAGodoy&theme=dracula)](https://github.com/AndersonAGodoy/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonAGodoy&theme=dracula&show_icons=true)](https://github.com/AndersonAGodoy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAGodoy&layout=compact&theme=dracula)](https://github.com/AndersonAGodoy/github-readme-stats)
 <!--
