@@ -43,7 +43,7 @@ Meu nome é **Anderson Godoy**, graduado em Gestão da tecnologia da informaçã
    <code><img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="22"/></code>
    <label>LINUX</label>
 </span>
-<br/>
+<br/> <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonAGodoy&theme=dracula&show_icons=true)](https://github.com/AndersonAGodoy/github-readme-stats)
 
