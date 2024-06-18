@@ -1,6 +1,6 @@
 ### Olá Pessoal! 👋
 
-Meu nome é **Anderson Godoy**, graduado em Gestão da tecnologia da informação, Pós Graduado em Empreendedorismo, cursando Desenvolvimento Full Stack na **TRYBE**, escola que nos leva ao mais próximo do mundo real de um desenvolvedor, instigando o 'auto-aprendizado'. 
+Meu nome é **Anderson Godoy**, graduado em Gestão da tecnologia da informação, Pós Graduado em Empreendedorismo. Atualmente trabalho com TS, NodeJS, ReactJS. Estudando **GO** '. 
 
 ### Minhas Competências:
 
